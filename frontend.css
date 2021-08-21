@@ -1,11 +1,11 @@
 body{ 
-    /* background-color: aliceblue;*/
-    background-image: url(https://giphy.com/gifs/code-matrix-wallpaper-A06UFEx8jxEwU);
+    background-color: aliceblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .section1{
-background-color: black;
+background-image: url(https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47nnngdznbbf990nm0mtqc32711p3nlcicwluify3e&rid=giphy.gif&ct=g);
+width: 100%;
 padding: 20px;
 padding-left: 50px;
 color: whitesmoke;
